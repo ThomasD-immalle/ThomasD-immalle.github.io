@@ -7,7 +7,6 @@ footer{
     margin-bottom: 20px;
     margin-left: 20px;
     margin-right: 20px;
-    padding-left: 20px;
 }
 nav{
     text-align: center;
@@ -22,6 +21,12 @@ li.navigatie{
     border: brown solid 5px;
     border-radius: 5px;
     color: white;
+}
+li.Home{
+    display: inline;
+    margin-right: 20px;
+    background-color: lightgray;
+    color: gray;
 }
 header{
     color: white;
