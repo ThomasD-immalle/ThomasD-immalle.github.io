@@ -72,6 +72,17 @@ section{
     border-radius: 10px;
     width: 45%;
 }
+#CaseSection{
+    color: white;
+    text-align: center;
+    background-color: brown;
+    padding: 0.1px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
 #prijzen{
     float: right;
     width: 40%;
