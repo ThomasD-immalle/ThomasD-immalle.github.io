@@ -47,7 +47,7 @@ a:link{
 a:visited{
     color: white;
 }
-aside{
+aside.Google{
     float: right;
     width: 31.5%;
     padding: 10px;
@@ -60,4 +60,23 @@ section{
     margin-right: 20px;
     padding: 10px;
     background-color: lightgrey;
+}
+#TitelSection{
+    color: white;
+    text-align: center;
+    background-color: brown;
+    padding: 0.1px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    width: 45%;
+}
+#prijzen{
+    float: right;
+    width: 40%;
+    margin: 20px;
+    margin-right: 60px;
+    border: solid brown 20px;
+    border-radius: 5px;
 }
