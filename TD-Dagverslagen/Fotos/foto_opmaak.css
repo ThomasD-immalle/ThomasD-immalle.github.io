@@ -66,3 +66,13 @@ section{
     border-radius: 10px;
     padding: 10px;
 }
+#Beschrijving{
+    color: white;
+    background-color: brown;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 1px;
+    padding-left: 5%;
+}

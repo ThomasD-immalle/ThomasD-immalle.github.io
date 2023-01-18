@@ -61,3 +61,12 @@ a:visited{
     padding: 10px;
     background-color: lightgray; 
 }
+#FotoBericht{
+    color: white;
+    text-align: center;
+    background-color: brown;
+    padding: 0.1px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 10px;
+}
