@@ -106,3 +106,25 @@ section{
 section.informatie{
     width: 80%
 }
+section.CaseTekst{
+    width: 60%;
+}
+aside.CaseFoto{
+    float: right;
+    width: 30%;
+    margin-top: 60px;
+    margin-right: 60px;
+    text-align: center;
+}
+#CaseFoto{
+    border: solid brown 15px;
+    border-radius: 5px;
+}
+#CaseBeschrijving{
+    background-color: brown;
+    color: white;
+    margin-left: 130px;
+    margin-right: 130px;
+    padding: 10px;
+    border-radius: 5px;
+}
