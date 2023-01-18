@@ -15,6 +15,7 @@ nav{
     margin: 20px;
     padding: 10px;
     background-color: lightgray;
+    border-radius: 5px;
 }
 li.info{
     display: inline;
@@ -28,6 +29,7 @@ footer{
     margin-bottom: 20px;
     margin-left: 20px;
     margin-right: 20px;
+    border-radius: 5px;
 }
 #Uitleg{
     background-color: brown;
@@ -54,6 +56,7 @@ img{
 section{
     background-color: lightgray;
     margin: 20px;
+    border-radius: 5px;
 }
 #FotoSection{
     color: white;

@@ -1,6 +1,14 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
+footer{
+    background-color: lightgrey;
+    padding: 1px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
 header{
     color: white;
     text-align: center;
@@ -15,6 +23,14 @@ nav{
     margin: 20px;
     padding: 10px;
     background-color: lightgray;
+    border-radius: 5px;
+}
+section{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    background-color: lightgrey;
+    border-radius: 5px;
 }
 li.navigatie{
     display: inline;
@@ -30,12 +46,27 @@ li.info{
     background-color: lightgray;
     color: gray;
 }
-footer{
-    background-color: lightgrey;
-    padding: 1px;
-    margin-bottom: 20px;
-    margin-left: 20px;
+aside.Google{
+    float: right;
+    width: 31.5%;
+    padding: 10px;
     margin-right: 20px;
+    background-color: brown;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+section.informatie{
+    width: 80%
+}
+section.CaseTekst{
+    width: 60%;
+}
+aside.CaseFoto{
+    float: right;
+    width: 30%;
+    margin-top: 60px;
+    margin-right: 60px;
+    text-align: center;
 }
 a:hover{
     color: white;
@@ -46,21 +77,6 @@ a:link{
 }
 a:visited{
     color: white;
-}
-aside.Google{
-    float: right;
-    width: 31.5%;
-    padding: 10px;
-    margin-right: 20px;
-    background-color: brown;
-    border-radius: 5px;
-    margin-top: 50px;
-}
-section{
-    margin-left: 20px;
-    margin-right: 20px;
-    padding: 10px;
-    background-color: lightgrey;
 }
 #TitelSection{
     color: white;
@@ -102,19 +118,6 @@ section{
     margin-bottom: 20px;
     border-radius: 10px;
     padding: 10px;
-}
-section.informatie{
-    width: 80%
-}
-section.CaseTekst{
-    width: 60%;
-}
-aside.CaseFoto{
-    float: right;
-    width: 30%;
-    margin-top: 60px;
-    margin-right: 60px;
-    text-align: center;
 }
 #CaseFoto{
     border: solid brown 15px;
