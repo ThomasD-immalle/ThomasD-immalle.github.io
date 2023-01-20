@@ -69,7 +69,7 @@ section{
     border-radius: 10px;
     padding: 10px;
 }
-#Beschrijving{
+.Beschrijving{
     color: white;
     background-color: brown;
     margin-left: 60px;
